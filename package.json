@@ -8,9 +8,9 @@
         "wdio": "wdio run wdio.conf.js"
     },
     "keywords": [
-        "mobile"
+        "mobile, appium"
     ],
-    "author": "alvin",
+    "author": "Rahman Sopian",
     "license": "ISC",
     "devDependencies": {
         "@babel/core": "^7.20.5",
@@ -26,6 +26,7 @@
     },
     "dependencies": {
         "-": "^0.0.1",
+        "chai": "^4.3.7",
         "g": "^2.0.1",
         "path": "^0.12.7"
     }

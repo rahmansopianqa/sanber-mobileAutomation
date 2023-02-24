@@ -1,5 +1,5 @@
 describe('Open Application',() => {
-    it('Should open apps', async() => {
+    it('Navigate to Home screen', async() => {
         let name = 'Dadang'
         let weight = '100'
         let height = '85'
